@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deadline-timer/static/css/main.066e6b1e.chunk.css",
+    "main.js": "/deadline-timer/static/js/main.eae74c92.chunk.js",
+    "main.js.map": "/deadline-timer/static/js/main.eae74c92.chunk.js.map",
+    "runtime-main.js": "/deadline-timer/static/js/runtime-main.f2811a94.js",
+    "runtime-main.js.map": "/deadline-timer/static/js/runtime-main.f2811a94.js.map",
+    "static/js/2.5b1bec36.chunk.js": "/deadline-timer/static/js/2.5b1bec36.chunk.js",
+    "static/js/2.5b1bec36.chunk.js.map": "/deadline-timer/static/js/2.5b1bec36.chunk.js.map",
+    "static/js/3.6bc17249.chunk.js": "/deadline-timer/static/js/3.6bc17249.chunk.js",
+    "static/js/3.6bc17249.chunk.js.map": "/deadline-timer/static/js/3.6bc17249.chunk.js.map",
+    "index.html": "/deadline-timer/index.html",
+    "static/css/main.066e6b1e.chunk.css.map": "/deadline-timer/static/css/main.066e6b1e.chunk.css.map",
+    "static/js/2.5b1bec36.chunk.js.LICENSE.txt": "/deadline-timer/static/js/2.5b1bec36.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/deadline-timer/static/media/sand-clock.a4a9afb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2811a94.js",
+    "static/js/2.5b1bec36.chunk.js",
+    "static/css/main.066e6b1e.chunk.css",
+    "static/js/main.eae74c92.chunk.js"
+  ]
+}
