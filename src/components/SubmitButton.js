@@ -1,8 +1,8 @@
 import React from "react";
 
-const SubmitButton = () => {
+const SubmitButton = ({submit}) => {
     return(
-        <button type="submit" id="SubmitButton">Submit</button>
+        <button id="SubmitButton" onClick={submit}>Submit</button>
     );
 }
 
