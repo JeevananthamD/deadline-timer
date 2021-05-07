@@ -3,13 +3,13 @@ import React from "react";
 const Timer = ({days, hours,minutes,seconds}) => {
     return(
         <div id="Timer">
-            <div className="time"><p>{days}</p><p>Days</p></div>
+            <div><p className="time">{days}</p><p className="units">Days</p></div>
             <div className="colon">:</div>
-            <div className="time"><p>{hours}</p><p>Hours</p></div>
+            <div><p className="time">{hours}</p><p className="units">Hours</p></div>
             <div className="colon">:</div>
-            <div className="time"><p>{minutes}</p><p>Minutes</p></div>
+            <div><p className="time">{minutes}</p><p className="units">Minutes</p></div>
             <div className="colon">:</div>
-            <div className="time"><p>{seconds}</p><p>Seconds</p></div>
+            <div><p className="time">{seconds}</p><p className="units">Seconds</p></div>
         </div>
     );
 }

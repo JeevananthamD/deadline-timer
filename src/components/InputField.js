@@ -1,8 +1,8 @@
 import React from "react";
 
-const InputField = ({getInput}) => {
+const InputField = ({getInput, value}) => {
     return(
-        <input type="date" id="InputField" onChange={getInput}/>
+        <input type="date" id="InputField" onChange={getInput} value={value}/>
     );
 }
 
